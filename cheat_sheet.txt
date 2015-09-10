@@ -74,7 +74,7 @@ $ git checkout <branchname>
 Check current branch
 $ git branch
 
-random stuf22222
-22222
-f
+Merge branch
+$ git merge <branchname>
+
 
