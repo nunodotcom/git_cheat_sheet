@@ -65,4 +65,5 @@ $ git reset <commit>
 Amend last commit
 $ git commit --amend
 
+random stuff...
 
