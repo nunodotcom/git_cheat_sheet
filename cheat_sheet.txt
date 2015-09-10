@@ -38,5 +38,28 @@ $ git log
 Create alias
 $ git config --global alias.lg 'log --graph --oneline -- decorate --all'
 
+Ver Repositorio
+$ git lg
+
+Differences
+$ git diff
+	
+	options
+	--staged //diferenças entre stage e o ultimo commit
+
+Reset local changes
+$ git checkout
+
+Reset the stage
+$ git reset HEAD
+
+Remove commit
+$ git reset <commit>
+
+	options
+	--hard //remove changes
+
+Amend last commit
+$ git commit --amend
 
 
