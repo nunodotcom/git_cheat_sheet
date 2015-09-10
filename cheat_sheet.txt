@@ -65,5 +65,16 @@ $ git reset <commit>
 Amend last commit
 $ git commit --amend
 
-random stuff...
+Create branch
+$ git branch <branchname>
+
+Change to branch
+$ git checkout <branchname>
+
+Check current branch
+$ git branch
+
+random stuf22222
+22222
+f
 
