@@ -86,3 +86,7 @@ $ git remote add origin <url>
 Push to remote
 $ git push -u origin master
 
+Pull from remote
+$ git pull origin master
+
+
