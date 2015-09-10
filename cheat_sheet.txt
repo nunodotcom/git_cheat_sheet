@@ -80,3 +80,9 @@ $ git merge <branchname>
 Merge tool
 $ git mergetool
 
+Add remote
+$ git remote add origin <url>
+
+Push to remote
+$ git push -u origin master
+
