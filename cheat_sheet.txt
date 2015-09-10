@@ -77,4 +77,6 @@ $ git branch
 Merge branch
 $ git merge <branchname>
 
+Merge tool
+$ git mergetool
 
