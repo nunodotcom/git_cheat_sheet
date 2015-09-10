@@ -16,7 +16,8 @@ $ git commit ou git commit -m "message"
 
 Histórico do repositorio do Git
 $ git log
-	ou
+
+	options:
 	-n (onde n é o número dos últimos commits que queremos ver)
 
 	ou 
@@ -30,5 +31,12 @@ $ git log
 	
 	ou
 	--all (mostra tudo o que o repositorio tem)
+	
+	ou
+	--decorate
+
+Create alias
+$ git config --global alias.lg 'log --graph --oneline -- decorate --all'
+
 
 
