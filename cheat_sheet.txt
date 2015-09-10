@@ -5,4 +5,11 @@ $ git config --global user.email <email>
 Initialize git repo
 $ git init
 
+Add file to git stage
+$ git add <filename>
 
+Ver status do git
+$ git status
+
+Commit File
+$ git commit ou git commit -m "message"
