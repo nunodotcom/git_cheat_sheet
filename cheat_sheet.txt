@@ -48,10 +48,13 @@ $ git diff
 	--staged //diferenças entre stage e o ultimo commit
 
 Reset local changes
-$ git checkout
+$ git checkout -- <filename> //reset local  changes on file
 
 Reset the stage
 $ git reset HEAD
+
+	options
+	<filename> //unstage file
 
 Remove commit
 $ git reset <commit>
