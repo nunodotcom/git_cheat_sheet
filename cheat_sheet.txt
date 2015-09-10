@@ -13,3 +13,22 @@ $ git status
 
 Commit File
 $ git commit ou git commit -m "message"
+
+Histórico do repositorio do Git
+$ git log
+	ou
+	-n (onde n é o número dos últimos commits que queremos ver)
+
+	ou 
+	--oneline (mostra tudo compactado)
+
+	ou
+	-1 -p (mostra as alterções que fizemos no último commit)
+
+	ou
+	--graph (permite ver a estrutura do repositorio)
+	
+	ou
+	--all (mostra tudo o que o repositorio tem)
+
+
