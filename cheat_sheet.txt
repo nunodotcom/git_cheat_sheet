@@ -89,4 +89,5 @@ $ git push -u origin master
 Pull from remote
 $ git pull origin master
 
+$teste
 
